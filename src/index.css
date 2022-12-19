@@ -30,17 +30,19 @@ code {
 
 .main-div{
   width: 500px;
-  height:250px;
+  height:293px;
   background-color: rgb(65,65,65);
+  
   position: relative;
   left: 500px;
+ color:aliceblue;
   /* top: 50px; */
 }
 
 input{
   background-color: rgb(65,65,65);
   width: 190px;
-  color:aliceblue;
+  color:rgb(65,65,65);
   border: none;
   font-size: 20px;
 }
@@ -49,7 +51,7 @@ input{
   height: 30px;
   padding-bottom: 10px;
   font-size: 30px;
-  color:aliceblue;
+  
 }
 h1{
   position:relative;
